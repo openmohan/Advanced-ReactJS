@@ -1,0 +1,18 @@
+{
+  "name": "advancedReact",
+  "version": "1.0.0",
+  "description": "]",
+  "main": "lib/index.js",
+  "repository": "git@github.com:mohanprasaths/Advanced-ReactJS.git",
+  "author": "mohanprasaths <mohanprasath@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.6.1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
