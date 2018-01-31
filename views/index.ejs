@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width , initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Advanced React js</title>
+  <script type="text/javascript">
+    window.intialData = <%- JSON.stringify(intialData) -%>
+  </script>
 </head>
 <body>
-  <div id="root"><%- intialContent -%></div>
+  <div id="root"><%- intialMarkup -%></div>
   <script src="./bundle.js" charset="utf-8"></script>
 </body>
 </html>
