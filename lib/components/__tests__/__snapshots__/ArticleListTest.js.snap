@@ -16,7 +16,7 @@ exports[`ArticleList renders correctly 1`] = `
     <div
       style={
         Object {
-          "color": "red",
+          "color": "blue",
           "fontWeight": "bold",
         }
       }
@@ -68,7 +68,7 @@ exports[`ArticleList renders correctly 1`] = `
     <div
       style={
         Object {
-          "color": "red",
+          "color": "blue",
           "fontWeight": "bold",
         }
       }
